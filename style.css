@@ -1,0 +1,61 @@
+#title {
+  background-color: #31e34f;
+  font-family: 'Montserrat', sans-serif;
+}
+.navbar-brand {
+  font-family: "Ubuntu";
+  font-size: 3rem;
+  font-weight: bold;
+  margin-left: 2%;
+}
+/* body {
+  background-color: black;
+} */
+.search {
+  display: inline-block;
+  width: 550px;
+}
+.search-btn {
+  display: inline-block;
+}
+#second {
+  background-color: white;
+}
+.second {
+  padding: 3%;
+  font-family: 'Montserrat', sans-serif;
+}
+#third {
+  background-color: #31e34f;
+}
+.third {
+  padding: 3%;
+  font-family: 'Montserrat', sans-serif;
+}
+#fourth {
+  background-color: white;
+}
+.fourth {
+  padding: 3%;
+  font-family: 'Montserrat', sans-serif;
+}
+#download {
+  background-color: #31e34f;
+}
+.download {
+  color: white;
+  text-align: center;
+  padding-top: 2%;
+  padding-bottom: 2%;
+  font-family: 'Montserrat', sans-serif;
+}
+.footer {
+  background-color: white;
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+  padding: 2%;
+}
+.a {
+  padding: 1%;
+  margin-bottom: 2%;
+}
